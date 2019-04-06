@@ -13,4 +13,5 @@
             
 
 1.5.N-grams
- ![N-grams](1.5.PNG)
+
+![N-grams](1.5.PNG)
